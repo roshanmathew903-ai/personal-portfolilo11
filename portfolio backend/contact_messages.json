@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1774471557834,
+    "name": "Test User",
+    "email": "test@example.com",
+    "subject": "Test Subject",
+    "message": "This is a test message from PowerShell",
+    "timestamp": "2026-03-25T20:45:57.834Z"
+  },
+  {
+    "id": 1774472642994,
+    "name": "SQLite User",
+    "email": "sqlite@example.com",
+    "subject": "DB Test",
+    "message": "Testing SQLite storage!",
+    "timestamp": "2026-03-25T21:04:02.994Z"
+  }
+]
